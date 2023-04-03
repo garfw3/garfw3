@@ -12,7 +12,7 @@
       <a href="https://t.me/MishaBulkin">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
       </a>
-      <a href="">
+      <a href="https://discordapp.com/users/507518390764568577">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
       </a>
    </p>
