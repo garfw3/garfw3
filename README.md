@@ -31,6 +31,13 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    </p>
+  <div name="stats" align="center">
+    <p>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garfw3&theme=2077">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garfw3&theme=2077">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garfw3&theme=2077">
+    </p>
+  </div>
 </div>
 
 <!--
