@@ -33,9 +33,9 @@
    </p>
   <div name="stats" align="center">
     <p>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garfw3&theme=2077">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garfw3&theme=2077">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garfw3&theme=2077">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garfw3&theme=dark">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=garfw3&theme=dark">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garfw3&theme=dark">
     </p>
   </div>
 </div>
